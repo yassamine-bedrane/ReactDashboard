@@ -40,16 +40,3 @@ L’application sera accessible sur `http://localhost:3000`
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/302bbb1f-8b92-4add-b11f-82be5d50fb64" />
 
 
-
-
-
-
-
-
-
-
-
-
-
-
->>>>>>> 87cabcc4a98fd96b09d2c3c556687ab4288e0c46
