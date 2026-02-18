@@ -1,0 +1,79 @@
+[
+  {
+    "id": "wo_1001",
+    "title": "Electrical panel inspection",
+    "clientId": "client_001",
+    "technicianId": "tech_001",
+    "status": "completed",
+    "priority": "high",
+    "scheduledDate": "2026-01-12",
+    "durationHours": 3,
+    "cost": 420
+  },
+  {
+    "id": "wo_1002",
+    "title": "HVAC maintenance",
+    "clientId": "client_003",
+    "technicianId": "tech_002",
+    "status": "completed",
+    "priority": "medium",
+    "scheduledDate": "2026-01-18",
+    "durationHours": 4,
+    "cost": 560
+  },
+  {
+    "id": "wo_1003",
+    "title": "Pipe leak repair",
+    "clientId": "client_002",
+    "technicianId": "tech_003",
+    "status": "completed",
+    "priority": "high",
+    "scheduledDate": "2026-02-03",
+    "durationHours": 2,
+    "cost": 280
+  },
+  {
+    "id": "wo_1004",
+    "title": "Lighting installation",
+    "clientId": "client_004",
+    "technicianId": "tech_001",
+    "status": "scheduled",
+    "priority": "medium",
+    "scheduledDate": "2026-02-20",
+    "durationHours": 5,
+    "cost": 700
+  },
+  {
+    "id": "wo_1005",
+    "title": "Boiler maintenance",
+    "clientId": "client_003",
+    "technicianId": "tech_005",
+    "status": "scheduled",
+    "priority": "low",
+    "scheduledDate": "2026-03-05",
+    "durationHours": 3,
+    "cost": 390
+  },
+  {
+    "id": "wo_1006",
+    "title": "Water heater replacement",
+    "clientId": "client_005",
+    "technicianId": "tech_006",
+    "status": "scheduled",
+    "priority": "high",
+    "scheduledDate": "2026-03-14",
+    "durationHours": 6,
+    "cost": 950
+  },
+  {
+    "id": "wo_1007",
+    "title": "Electrical safety audit",
+    "clientId": "client_006",
+    "technicianId": "tech_001",
+    "status": "scheduled",
+    "priority": "medium",
+    "scheduledDate": "2026-03-22",
+    "durationHours": 4,
+    "cost": 520
+  }
+]

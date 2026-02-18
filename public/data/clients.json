@@ -1,0 +1,22 @@
+[
+  { "id": "client_001", "name": "Global Retail Ltd", "industry": "Retail", "city": "New York", "lat": 40.7128, "lng": -74.0060 },
+  { "id": "client_002", "name": "TechWave Inc", "industry": "Technology", "city": "San Francisco", "lat": 37.7749, "lng": -122.4194 },
+  { "id": "client_003", "name": "Pacific Finance Group", "industry": "Finance", "city": "Tokyo", "lat": 35.6895, "lng": 139.6917 },
+  { "id": "client_004", "name": "Sunrise Hospitality", "industry": "Hospitality", "city": "Sydney", "lat": -33.8688, "lng": 151.2093 },
+  { "id": "client_005", "name": "Nordic Energy Solutions", "industry": "Energy", "city": "Oslo", "lat": 59.9139, "lng": 10.7522 },
+  { "id": "client_006", "name": "Telecom Global", "industry": "Telecom", "city": "London", "lat": 51.5074, "lng": -0.1278 },
+  { "id": "client_007", "name": "EcoFoods International", "industry": "Retail", "city": "Berlin", "lat": 52.5200, "lng": 13.4050 },
+  { "id": "client_008", "name": "FinTrust Bank", "industry": "Finance", "city": "Toronto", "lat": 43.6532, "lng": -79.3832 },
+  { "id": "client_009", "name": "Global Stay Hotels", "industry": "Hospitality", "city": "Dubai", "lat": 25.2048, "lng": 55.2708 },
+  { "id": "client_010", "name": "SolarTech Power", "industry": "Energy", "city": "Cape Town", "lat": -33.9249, "lng": 18.4241 },
+  { "id": "client_011", "name": "NextGen Telecom", "industry": "Telecom", "city": "Singapore", "lat": 1.3521, "lng": 103.8198 },
+  { "id": "client_012", "name": "Urban Retail Corp", "industry": "Retail", "city": "Chicago", "lat": 41.8781, "lng": -87.6298 },
+  { "id": "client_013", "name": "Capital Finance Partners", "industry": "Finance", "city": "Hong Kong", "lat": 22.3193, "lng": 114.1694 },
+  { "id": "client_014", "name": "Seaside Resorts", "industry": "Hospitality", "city": "Barcelona", "lat": 41.3851, "lng": 2.1734 },
+  { "id": "client_015", "name": "Energy Solutions Co", "industry": "Energy", "city": "Reykjavik", "lat": 64.1355, "lng": -21.8954 },
+  { "id": "client_016", "name": "Connect Telecom", "industry": "Telecom", "city": "Tokyo", "lat": 35.6762, "lng": 139.6503 },
+  { "id": "client_017", "name": "Metro Retailers", "industry": "Retail", "city": "Paris", "lat": 48.8566, "lng": 2.3522 },
+  { "id": "client_018", "name": "Global Finance Hub", "industry": "Finance", "city": "Zurich", "lat": 47.3769, "lng": 8.5417 },
+  { "id": "client_019", "name": "Premier Hotels International", "industry": "Hospitality", "city": "Bangkok", "lat": 13.7563, "lng": 100.5018 },
+  { "id": "client_020", "name": "Renewable Energy Corp", "industry": "Energy", "city": "Copenhagen", "lat": 55.6761, "lng": 12.5683 }
+]

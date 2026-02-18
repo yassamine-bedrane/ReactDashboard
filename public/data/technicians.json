@@ -1,0 +1,22 @@
+[
+  { "id": "tech_001", "name": "Sofia Martin", "role": "Electrician", "status": "active", "region": "New York", "rating": 4.7 },
+  { "id": "tech_002", "name": "Lucas Brown", "role": "HVAC", "status": "active", "region": "California", "rating": 4.5 },
+  { "id": "tech_003", "name": "Emma Davis", "role": "Plumber", "status": "active", "region": "Texas", "rating": 4.8 },
+  { "id": "tech_004", "name": "Hugo Wilson", "role": "Electrician", "status": "inactive", "region": "Florida", "rating": 4.2 },
+  { "id": "tech_005", "name": "Chloe Thompson", "role": "HVAC", "status": "active", "region": "Illinois", "rating": 4.6 },
+  { "id": "tech_006", "name": "Nathan Scott", "role": "Plumber", "status": "active", "region": "Ohio", "rating": 4.4 },
+  { "id": "tech_007", "name": "Olivia Parker", "role": "Electrician", "status": "active", "region": "Georgia", "rating": 4.9 },
+  { "id": "tech_008", "name": "Ethan Johnson", "role": "HVAC", "status": "inactive", "region": "Arizona", "rating": 4.1 },
+  { "id": "tech_009", "name": "Ava White", "role": "Plumber", "status": "active", "region": "Washington", "rating": 4.5 },
+  { "id": "tech_010", "name": "Mason Miller", "role": "Electrician", "status": "active", "region": "Colorado", "rating": 4.6 },
+  { "id": "tech_011", "name": "Isabella Harris", "role": "HVAC", "status": "active", "region": "Michigan", "rating": 4.7 },
+  { "id": "tech_012", "name": "Logan Clark", "role": "Plumber", "status": "inactive", "region": "Nevada", "rating": 4.3 },
+  { "id": "tech_013", "name": "Mia Lewis", "role": "Electrician", "status": "active", "region": "Oregon", "rating": 4.8 },
+  { "id": "tech_014", "name": "James Walker", "role": "HVAC", "status": "active", "region": "New Jersey", "rating": 4.5 },
+  { "id": "tech_015", "name": "Charlotte Hall", "role": "Plumber", "status": "active", "region": "Massachusetts", "rating": 4.6 },
+  { "id": "tech_016", "name": "Benjamin Allen", "role": "Electrician", "status": "inactive", "region": "Virginia", "rating": 4.2 },
+  { "id": "tech_017", "name": "Amelia Young", "role": "HVAC", "status": "active", "region": "North Carolina", "rating": 4.7 },
+  { "id": "tech_018", "name": "William King", "role": "Plumber", "status": "active", "region": "Pennsylvania", "rating": 4.4 },
+  { "id": "tech_019", "name": "Ella Wright", "role": "Electrician", "status": "active", "region": "Minnesota", "rating": 4.9 },
+  { "id": "tech_020", "name": "Alexander Baker", "role": "HVAC", "status": "active", "region": "Missouri", "rating": 4.5 }
+]

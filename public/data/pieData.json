@@ -1,0 +1,5 @@
+[
+  { "id": "Electrician", "label": "Electrician", "value": 2 },
+  { "id": "HVAC", "label": "HVAC", "value": 2 },
+  { "id": "Plumber", "label": "Plumber", "value": 2 }
+]

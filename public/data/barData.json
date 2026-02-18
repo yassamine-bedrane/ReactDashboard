@@ -1,0 +1,38 @@
+[
+  {
+    "technician": "Sofia Martin",
+    "completed": 2,
+    "pending": 1,
+    "overdue": 0
+  },
+  {
+    "technician": "Lucas Bernard",
+    "completed": 3,
+    "pending": 2,
+    "overdue": 0
+  },
+  {
+    "technician": "Emma Dubois",
+    "completed": 1,
+    "pending": 1,
+    "overdue": 0
+  },
+  {
+    "technician": "Hugo Laurent",
+    "completed": 2,
+    "pending": 1,
+    "overdue": 1
+  },
+  {
+    "technician": "Chloé Moreau",
+    "completed": 2,
+    "pending": 1,
+    "overdue": 0
+  },
+  {
+    "technician": "Nathan Simon",
+    "completed": 1,
+    "pending": 0,
+    "overdue": 0
+  }
+]
