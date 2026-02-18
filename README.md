@@ -1,4 +1,31 @@
 # ReactDashboard
+Description
+
+Ce projet est un tableau de bord d'administration développé avec React et Material-UI, destiné à la gestion des clients, techniciens et commandes de travail. Il inclut des visualisations de données interactives grâce à Nivo et une carte interactive basée sur GeoJSON.
+
+
+Installation
+
+Cloner le dépôt :
+
+    git clone https://github.com/yassamine-bedrane/ReactDashboard/
+
+
+Installer les dépendances :
+
+    cd ReactDashboard
+    npm install
+
+
+Démarrer le serveur de développement :
+
+    npm start
+
+
+L’application sera accessible sur `http://localhost:3000`
+
+
+
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/23a982dc-f738-4d36-aaad-f783f98bd4c3" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2cc48e80-3f98-4eb5-b26d-239af8575f44" />
